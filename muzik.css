@@ -1,0 +1,100 @@
+.top-bar {
+    margin: 0px;
+    padding: 0px;
+    width: 90rem;
+    height: 3rem;
+    background-color: rgb(35, 34, 34);
+}
+
+.main-bar {
+    margin-top: 10rem;
+    margin-left: 37rem;
+    color: rgb(221, 34, 34);
+}
+
+.bottom-main {
+    margin-left: 33rem;
+}
+
+.top-buttons {
+    padding: 10px;
+    margin-left: 5rem;
+}
+
+.label {
+    font-size: large;
+    color: brown;
+    text-decoration: none;
+}
+
+.label-2 {
+    color: white;
+    text-decoration: none;
+    margin-left: 32rem;
+}
+
+.btn {
+    margin-left: 4rem;
+    color: white;
+}
+
+.p-button {
+    color: rgb(194, 146, 83);
+    text-decoration: none;
+}
+
+.main-btn {
+    margin-top: 15px;
+    margin-left: 4.5rem;
+    border-radius: 5px;
+    background-color: rgb(21, 127, 255);
+    
+}
+
+.main-btn2{
+    border-radius: 5px;
+    background-color: rgb(21, 127, 255);
+}
+
+
+.btn-color {
+    color: white;
+    text-decoration: none;
+}
+
+/* Urunler css Start */
+
+.title {
+    margin-left: 36.9rem;
+    color: rgb(164, 89, 234);
+    font-size: 50px;
+}
+
+.title2 {
+    margin-left: 37.2rem;
+    color: rgb(123, 96, 148);
+    font-size: 30px;
+}
+
+
+.main-padding {
+    padding: 30px;
+}
+
+.card-1 {
+    color: blue;
+}
+
+.first-item {
+    font-size: 10px;
+}
+
+.auto {
+    margin-left: auto;
+    margin-left: auto;
+}
+
+.hak-title{
+    margin-left: 15rem;
+    color: rgb(226, 183, 51);
+}
